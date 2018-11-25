@@ -1,0 +1,2 @@
+# kazdego-szkoda
+Various trivia
